@@ -62,7 +62,7 @@ B.Tech Computer Science Student
 
 This project was created for a Tech Fest using HTML, CSS, and JavaScript, with AI-assisted development for learning and rapid prototyping.
 
-B.Tech Computer Science Student
+
 
 ---
 
